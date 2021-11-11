@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @DaoNik
+- 👋 Hi, I’m Nikita Taranin
 - 👀 I’m interested in development and travels
-- 🌱 I’m currently learning frontent development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning frontend development in Yandex.Praktikum
+
 
 <!---
 DaoNik/DaoNik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
