@@ -1,9 +1,14 @@
-- 👋 Hi, I’m Nikita Taranin
-- 👀 I’m interested in development and travels
-- 🌱 I’m currently learning frontend development in Yandex.Praktikum
+Привет всем, меня зовут Никита
+- Хочу научиться создавать быстрые и многофункциональные веб-приложения
+- Хочу в совершенстве овладеть своим стеком технологий и инструментарием
+- Стремлюсь к работе в быстроразвивающейся сфере веб-разработки
+- Хочу работать в команде с опытными коллегами
 
-
-<!---
-DaoNik/DaoNik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Мой стек: 
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Git
+- Webpack
+- Babel
