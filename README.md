@@ -12,3 +12,6 @@
 - Git
 - Webpack
 - Babel
+- Node.js
+- Express
+- MongoDB
